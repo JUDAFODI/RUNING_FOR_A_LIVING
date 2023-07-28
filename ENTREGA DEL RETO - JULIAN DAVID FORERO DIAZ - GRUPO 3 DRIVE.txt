@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1dRHUCUdOYmhGFNVVA7ikYx6-u5XnWZ95?usp=sharing
+
+Buen día, anexo el link del videojuego subido en el drive ya que desde el primer día que se habilitó la actividad en la plataforma la subí, pero ahora revisando con el formador los archivos no cargaron completos ya que supera el límite permitido por git hub que son 25MB, debido a esto envío el link del videojuego completo subido al drive.
